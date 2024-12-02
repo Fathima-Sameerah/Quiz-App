@@ -28,11 +28,12 @@ A **Simple Quiz App** built using **HTML**, **CSS**, and **JavaScript**. This in
 
 ## 🌟 Features to Improve (Future Enhancements)
 
-Add a question timer for a more challenging experience.
-Create a question bank with randomization.
-Include a scoreboard for tracking top scores.
-Enable dark mode for better usability.
+- Add a question timer for a more challenging experience.
+- Create a question bank with randomization.
+- Include a scoreboard for tracking top scores.
+- Enable dark mode for better usability.
 
-## 👩‍💻 Author- Fathima Sameerah
+## 👩‍💻 Author
+Fathima Sameerah
 
 
