@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("img1.jpeg");
+    background-size: cover;  }
+  
+  .quiz-container {
+    max-width: 600px;
+    margin: 70px auto;
+    padding: 70px;
+    border: 2px solid black;
+    border-radius: 5%;
+    background-color: rgb(219, 255, 198);
+  }
+  
+  .choices-container {
+    margin-top: 20px;
+  }
+  
+  .choices-container label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  #submit-btn {
+    margin-top: 10px;
+    color: rgb(182, 25, 38);
+  }
+  
+  #feedback {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  #score {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
